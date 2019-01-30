@@ -1,0 +1,50 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THE_CRANBERRIES.com" resolutions="1x" timestamp="1548871276486">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="64227455" ref="biography:in-the-end:index"/>
+    <file name="biography.css" crc="3851912697" ref="biography"/>
+    <file name="in-the-end.css" crc="3826708271" ref="in-the-end"/>
+    <file name="index.css" crc="4161738276" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:in-the-end:biography"/>
+    <file name="museutils.js" crc="3803043152" ref="index:in-the-end:biography"/>
+    <file name="whatinput.js" crc="86476730" ref="index:in-the-end:biography"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:in-the-end:biography"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:in-the-end:biography"/>
+    <file name="require.js" crc="4157109226" ref="index:in-the-end:biography"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-crop-u200.jpg" crc="4251985985" seo="true" ref="index:in-the-end:biography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="in-the-end" alt=""/>
+      <caption webpage="biography" alt=""/>
+    </file>
+    <file name="facebook.png" crc="529357461" seo="true" ref="index:in-the-end:biography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="in-the-end" alt=""/>
+      <caption webpage="biography" alt=""/>
+    </file>
+    <file name="0006211-crop-u210.png" crc="4193844736" seo="true" ref="index:in-the-end:biography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="in-the-end" alt=""/>
+      <caption webpage="biography" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c545.png" crc="4183388884" seo="true" ref="index:in-the-end:biography">
+      <caption webpage="index" alt=""/>
+      <caption webpage="in-the-end" alt=""/>
+      <caption webpage="biography" alt=""/>
+    </file>
+    <file name="in the end-crop-u250.jpg" crc="3969250006" seo="true" ref="in-the-end">
+      <caption webpage="in-the-end" alt=""/>
+    </file>
+    <file name="u260-8.png" crc="3884271615" ref="in-the-end"/>
+    <file name="the-cranberries-crop-u274.jpg" crc="390432369" seo="true" ref="biography">
+      <caption webpage="biography" alt=""/>
+    </file>
+    <file name="u268-9.png" crc="3772867783" ref="biography"/>
+  </folder>
+  <file name="index.html" crc="475486840" seo="true" mt="1548871236813" redirect="true"/>
+  <file name="in-the-end.html" crc="4051812930" seo="true" mt="1548870470114" redirect="true"/>
+  <file name="biography.html" crc="330822174" seo="true" mt="1548870654214" redirect="true"/>
+</manifest>
